@@ -18,7 +18,7 @@ A python program to sort all files in a directory into appropriate sub-directori
      I will input .dll as extension and DynamicLinkLibrary as the group.
 
 ## **For Windows:**
-  1. Download the Windows folder and run the Sortergui.py python file.
-  2. Follow the last two standard directions.
+  1. Replace all forward slashes in the python code with double backward slashes.
+  2. Run the program using Sortergui.py
   3. Enter all paths with **DOUBLE BACKSLASHES**.
   
